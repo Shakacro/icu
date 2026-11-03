@@ -22,7 +22,7 @@
 
         <icu4j.version>77.0.1-SNAPSHOT</icu4j.version>
         <cldr-code.version>47.0-SNAPSHOT</cldr-code.version>
-        <guava.version>32.1.1-jre</guava.version>
+        <guava.version>33.7.1-jre</guava.version>
         <truth.version>1.4.4</truth.version>
         <commons-cli.version>1.9.0</commons-cli.version>
     </properties>
